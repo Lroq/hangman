@@ -1,3 +1,3 @@
-module github.com/Lroq/hangman
+module cmd
 
 go 1.21.0
