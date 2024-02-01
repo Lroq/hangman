@@ -1,6 +1,6 @@
 package main
 
-import "cmd/src"
+import "github.com/Lroq/hangman/src"
 
 func main() {
     for {
